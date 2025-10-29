@@ -1,0 +1,16 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace LibraryManagement.Core.Application.Features.Publishers.Queries.GetBooksByPublisher
+{
+    public class GetBooksByPublisherQueryResponse
+    {
+        public int BookId { get; set; }
+        public string ISBN { get; set; }
+        public string Title { get; set; }
+        public string Genre { get; set; }
+        public DateTime PublicationDate { get; set; }
+
+        public List<string> Authors { get; set; } = new();
+    }
+}

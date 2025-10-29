@@ -1,0 +1,94 @@
+/* Tam ekran mavi gradient arka plan */
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: 'Manrope', sans-serif;
+}
+
+.login-page {
+  height: 100vh;
+  width: 100vw;
+  background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+/* Ortadaki kart */
+.login-card {
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+  padding: 50px;
+  width: 360px;
+  color: white;
+  text-align: center;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.3);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Başlık */
+.login-card h2 {
+  margin-bottom: 25px;
+  font-size: 26px;
+  background: linear-gradient(90deg, #fff, #cde4ff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+/* Form */
+.login-card form {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+
+/* Inputlar */
+.login-card input {
+  padding: 12px 14px;
+  border-radius: 8px;
+  border: none;
+  outline: none;
+  font-size: 15px;
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+  transition: 0.2s;
+}
+
+.login-card input::placeholder {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.login-card input:focus {
+  background: rgba(255, 255, 255, 0.25);
+  box-shadow: 0 0 6px rgba(255, 255, 255, 0.4);
+}
+
+/* Buton */
+.login-card button {
+  background: linear-gradient(90deg, #fff, #c4ffe8);
+  color: #11998e;
+  font-weight: 700;
+  padding: 12px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+.login-card button:hover {
+  background: #f1f1f1;
+  transform: translateY(-2px);
+}
+
+
+/* Hata mesajı */
+.error {
+  color: #ffaaaa;
+  font-size: 14px;
+  margin-top: 10px;
+}

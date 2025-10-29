@@ -1,0 +1,116 @@
+.updatemember-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+  font-family: 'Manrope', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 60px 20px;
+  color: white;
+}
+
+.updatemember-box {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  padding: 40px;
+  max-width: 550px;
+  width: 100%;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.3);
+}
+
+.updatemember-title {
+  font-size: 26px;
+  text-align: center;
+  margin-bottom: 25px;
+  background: linear-gradient(90deg, #ffffff, #d8ffec);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+}
+
+.updatemember-form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.updatemember-form input,
+.updatemember-form select {
+  padding: 12px 14px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  background: rgba(255, 255, 255, 0.12);
+  color: white;
+  font-size: 15px;
+  transition: all 0.2s ease;
+}
+
+.updatemember-form input::placeholder {
+  color: #ccc;
+}
+
+.updatemember-form input:focus,
+.updatemember-form select:focus {
+  background: rgba(255, 255, 255, 0.18);
+  box-shadow: 0 0 0 2px rgba(56, 239, 125, 0.3);
+}
+
+.updatemember-form select {
+  cursor: pointer;
+  appearance: none;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+}
+
+.updatemember-form select option {
+  background: #031b34;
+  color: #fff;
+  font-size: 15px;
+}
+
+/* Buton */
+.updatemember-form button {
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  font-weight: 600;
+  box-shadow: 0 4px 12px rgba(56, 239, 125, 0.4);
+}
+
+.updatemember-form button:hover {
+  background: rgba(255, 255, 255, 0.25);
+  transform: translateY(-2px);
+}
+
+/* Mesaj */
+.message {
+  text-align: center;
+  margin-top: 10px;
+  color: #aefbc2;
+  font-weight: 500;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .updatemember-box {
+    padding: 25px;
+  }
+
+  .updatemember-title {
+    font-size: 22px;
+  }
+
+  .updatemember-form input,
+  .updatemember-form select,
+  .updatemember-form button {
+    font-size: 14px;
+    padding: 10px 12px;
+  }
+}

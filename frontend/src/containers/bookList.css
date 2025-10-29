@@ -1,0 +1,134 @@
+.booklist-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+  color: #fff;
+  padding: 50px;
+  font-family: 'Manrope', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.booklist-box {
+  max-width: 1000px;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 16px;
+  backdrop-filter: blur(10px);
+  padding: 30px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
+}
+
+.booklist-title {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 30px;
+  background: linear-gradient(90deg, #ffffff, #d8ffec);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+}
+.booklist-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  color: #eee;
+  text-align: left;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+}
+
+/* Başlık kısmı */
+.booklist-table th {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 14px 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Hücreler */
+.booklist-table td {
+  padding: 14px 12px;
+  font-size: 15px;
+  color: #f2f2f2;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+/* Hover efekti */
+.booklist-table tr:hover td {
+  background: rgba(255, 255, 255, 0.12);
+  transition: 0.25s ease;
+}
+
+.booklist-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.addbook-btn {
+  background:  rgba(132, 132, 132, 0.1);
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(56, 239, 125, 0.4);
+}
+
+.addbook-btn:hover {
+  transform: translateY(-2px);
+  opacity: 0.9;
+}
+
+
+/* İlk ve son hücrelere oval köşe */
+.booklist-table thead tr:first-child th:first-child {
+  border-top-left-radius: 16px;
+}
+.booklist-table thead tr:first-child th:last-child {
+  border-top-right-radius: 16px;
+}
+.booklist-table tr:last-child td:first-child {
+  border-bottom-left-radius: 16px;
+}
+.booklist-table tr:last-child td:last-child {
+  border-bottom-right-radius: 16px;
+}
+
+
+.empty-message {
+  text-align: center;
+  color: #ccefe3;
+  padding: 25px;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .booklist-box {
+    padding: 20px;
+  }
+
+  .booklist-title {
+    font-size: 24px;
+  }
+
+  .booklist-table th,
+  .booklist-table td {
+    font-size: 13px;
+    padding: 10px;
+  }
+}

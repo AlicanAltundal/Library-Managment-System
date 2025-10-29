@@ -1,0 +1,38 @@
+.memberprofile-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+  font-family: 'Manrope', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 60px 20px;
+  color: white;
+}
+
+.memberprofile-box {
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  padding: 40px;
+  max-width: 600px;
+  width: 100%;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
+}
+
+.memberprofile-box h2 {
+  font-size: 28px;
+  text-align: center;
+  margin-bottom: 20px;
+  background: linear-gradient(90deg, #ffffff, #c8ffe0);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+}
+
+.memberprofile-box p {
+  font-size: 16px;
+  color: #eafcf3;
+  margin: 8px 0;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+  padding-bottom: 6px;
+}

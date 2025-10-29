@@ -1,0 +1,123 @@
+.addmember-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+  font-family: 'Manrope', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 50px;
+  color: white;
+}
+
+.addmember-box {
+  background: rgba(255, 255, 255, 0.12);
+  backdrop-filter: blur(10px);
+  border-radius: 16px;
+  padding: 40px;
+  max-width: 600px;
+  width: 100%;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
+}
+
+.addmember-title {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 25px;
+  background: linear-gradient(90deg, #ffffff, #d8ffec);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+}
+
+.addmember-form {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+}
+
+.addmember-form input,
+.addmember-form select {
+  padding: 14px 16px;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  background: rgba(255, 255, 255, 0.1);
+  color: white;
+  font-size: 15px;
+  transition: 0.3s;
+}
+
+.addmember-form input::placeholder {
+  color: #ccefe3;
+}
+
+.addmember-form input:focus,
+.addmember-form select:focus {
+  background: rgba(255, 255, 255, 0.2);
+  box-shadow: 0 0 0 2px rgba(56, 239, 125, 0.4);
+}
+
+/* Role seçimi */
+.addmember-select {
+  width: 100%;
+  padding: 12px 16px;
+  border-radius: 10px;
+  border: 1px solid rgba(255, 255, 255, 0.15);
+  background: rgba(255, 255, 255, 0.08);
+  color: #ffffff;
+  font-size: 15px;
+  outline: none;
+  backdrop-filter: blur(12px);
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+}
+
+.addmember-select option {
+  background: #031b34;
+  color: white;
+}
+
+.addmember-form button {
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+  border: none;
+  padding: 12px;
+  border-radius: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  font-weight: 600;
+  box-shadow: 0 4px 12px rgba(56, 239, 125, 0.4);
+}
+
+.addmember-form button:hover {
+  transform: translateY(-2px);
+  opacity: 0.9;
+}
+
+/* Mesajlar */
+.message {
+  text-align: center;
+  margin-top: 12px;
+  font-size: 15px;
+  color: #d8ffec;
+  letter-spacing: 0.3px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .addmember-box {
+    padding: 25px;
+  }
+
+  .addmember-title {
+    font-size: 24px;
+  }
+
+  .addmember-form input,
+  .addmember-form select,
+  .addmember-form button {
+    font-size: 14px;
+    padding: 10px 12px;
+  }
+}

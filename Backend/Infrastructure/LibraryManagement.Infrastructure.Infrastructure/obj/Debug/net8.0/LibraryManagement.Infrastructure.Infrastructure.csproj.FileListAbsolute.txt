@@ -1,0 +1,51 @@
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.deps.json
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.dll
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.pdb
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Core.Application.dll
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Core.Domain.dll
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Core.Application.pdb
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Core.Domain.pdb
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.AssemblyInfo.cs
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryM.626E2968.Up2Date
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.dll
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\refint\LibraryManagement.Infrastructure.Infrastructure.dll
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.pdb
+C:\Users\aliye\source\repos\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\ref\LibraryManagement.Infrastructure.Infrastructure.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.deps.json
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.pdb
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Core.Application.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Core.Domain.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Core.Application.pdb
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Core.Domain.pdb
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.AssemblyInfo.cs
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryM.626E2968.Up2Date
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\refint\LibraryManagement.Infrastructure.Infrastructure.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.pdb
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\ref\LibraryManagement.Infrastructure.Infrastructure.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.deps.json
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.pdb
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Core.Application.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Core.Domain.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Core.Application.pdb
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\bin\Debug\net8.0\LibraryManagement.Core.Domain.pdb
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.AssemblyInfo.cs
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryM.626E2968.Up2Date
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\refint\LibraryManagement.Infrastructure.Infrastructure.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\LibraryManagement.Infrastructure.Infrastructure.pdb
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Infrastructure\LibraryManagement.Infrastructure.Infrastructure\obj\Debug\net8.0\ref\LibraryManagement.Infrastructure.Infrastructure.dll

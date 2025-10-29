@@ -1,0 +1,164 @@
+.memberlist-container {
+  min-height: 100vh;
+  background: linear-gradient(135deg, #11998e 0%, #38ef7d 100%);
+  color: #fff;
+  padding: 50px;
+  font-family: 'Manrope', sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.memberlist-box {
+  max-width: 1100px;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.12);
+  border-radius: 16px;
+  backdrop-filter: blur(10px);
+  padding: 30px;
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.25);
+}
+
+.memberlist-title {
+  font-size: 30px;
+  text-align: center;
+  margin-bottom: 30px;
+  background: linear-gradient(90deg, #ffffff, #d8ffec);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-weight: 700;
+}
+
+.memberlist-table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  color: #eee;
+  text-align: left;
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.25);
+}
+
+.memberlist-table th {
+  background: rgba(255, 255, 255, 0.1);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 600;
+  padding: 14px 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.6px;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+.memberlist-table td {
+  padding: 14px 12px;
+  font-size: 15px;
+  color: #f2f2f2;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.05);
+}
+
+.memberlist-table tr:hover td {
+  background: rgba(255, 255, 255, 0.12);
+  transition: 0.25s ease;
+}
+
+/* Üst başlık ve buton */
+.memberlist-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.addmember-btn {
+  background: rgba(132, 132, 132, 0.1);
+  color: white;
+  border: none;
+  padding: 10px 18px;
+  border-radius: 10px;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  box-shadow: 0 4px 12px rgba(56, 239, 125, 0.4);
+}
+
+.addmember-btn:hover {
+  transform: translateY(-2px);
+  opacity: 0.9;
+}
+
+/* Admin/User rozetleri */
+.role-admin {
+  background: #ff7c7c;
+  color: #fff;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+.role-user {
+  background: #00c389;
+  color: #fff;
+  padding: 4px 8px;
+  border-radius: 6px;
+  font-weight: 600;
+}
+
+/* Edit / Delete butonları */
+.edit-btn,
+.delete-btn {
+  border: none;
+  padding: 6px 12px;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 14px;
+  margin-right: 6px;
+  transition: 0.3s;
+}
+
+.edit-btn {
+  background: rgba(56, 239, 125, 0.3);
+  color: white;
+}
+
+.delete-btn {
+  background: rgba(255, 100, 100, 0.3);
+  color: white;
+}
+
+.edit-btn:hover {
+  background: rgba(56, 239, 125, 0.5);
+}
+
+.delete-btn:hover {
+  background: rgba(255, 100, 100, 0.5);
+}
+
+.empty-message {
+  text-align: center;
+  color: #ccefe3;
+  padding: 25px;
+  font-size: 16px;
+  letter-spacing: 0.5px;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .memberlist-box {
+    padding: 20px;
+  }
+
+  .memberlist-title {
+    font-size: 24px;
+  }
+
+  .memberlist-table th,
+  .memberlist-table td {
+    font-size: 13px;
+    padding: 10px;
+  }
+}

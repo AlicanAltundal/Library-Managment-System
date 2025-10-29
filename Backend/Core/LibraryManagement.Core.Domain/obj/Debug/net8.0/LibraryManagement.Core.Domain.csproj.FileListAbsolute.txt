@@ -1,0 +1,33 @@
+C:\Users\aliye\source\repos\LibraryManagement\Core\LibraryManagement.Core.Domain\bin\Debug\net8.0\LibraryManagement.Core.Domain.deps.json
+C:\Users\aliye\source\repos\LibraryManagement\Core\LibraryManagement.Core.Domain\bin\Debug\net8.0\LibraryManagement.Core.Domain.dll
+C:\Users\aliye\source\repos\LibraryManagement\Core\LibraryManagement.Core.Domain\bin\Debug\net8.0\LibraryManagement.Core.Domain.pdb
+C:\Users\aliye\source\repos\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aliye\source\repos\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\aliye\source\repos\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.AssemblyInfo.cs
+C:\Users\aliye\source\repos\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\aliye\source\repos\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.dll
+C:\Users\aliye\source\repos\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\refint\LibraryManagement.Core.Domain.dll
+C:\Users\aliye\source\repos\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.pdb
+C:\Users\aliye\source\repos\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\ref\LibraryManagement.Core.Domain.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Core\LibraryManagement.Core.Domain\bin\Debug\net8.0\LibraryManagement.Core.Domain.deps.json
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Core\LibraryManagement.Core.Domain\bin\Debug\net8.0\LibraryManagement.Core.Domain.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Core\LibraryManagement.Core.Domain\bin\Debug\net8.0\LibraryManagement.Core.Domain.pdb
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.AssemblyInfo.cs
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\refint\LibraryManagement.Core.Domain.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.pdb
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\LibraryManagement\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\ref\LibraryManagement.Core.Domain.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Core\LibraryManagement.Core.Domain\bin\Debug\net8.0\LibraryManagement.Core.Domain.deps.json
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Core\LibraryManagement.Core.Domain\bin\Debug\net8.0\LibraryManagement.Core.Domain.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Core\LibraryManagement.Core.Domain\bin\Debug\net8.0\LibraryManagement.Core.Domain.pdb
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.AssemblyInfoInputs.cache
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.AssemblyInfo.cs
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\refint\LibraryManagement.Core.Domain.dll
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\LibraryManagement.Core.Domain.pdb
+C:\Users\Ali Can ALTUNDAL\source\repos\LibraryManagement\Backend\Core\LibraryManagement.Core.Domain\obj\Debug\net8.0\ref\LibraryManagement.Core.Domain.dll
